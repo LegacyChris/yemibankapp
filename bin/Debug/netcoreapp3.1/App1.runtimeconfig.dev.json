@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/christianchime/.dotnet/store/|arch|/|tfm|",
+      "/Users/christianchime/.nuget/packages"
+    ]
+  }
+}
